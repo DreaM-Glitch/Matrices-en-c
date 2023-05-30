@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
-
+///IGNACIO NIZETICH| UTN MAR DEL PLATA
 
 int const fila = 4;
 int const columna = 20;
